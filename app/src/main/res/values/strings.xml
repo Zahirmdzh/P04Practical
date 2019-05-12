@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P04-Practical</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnRetrieve">Retrieve</string>
+    <string name="hintID">Student ID</string>
+    <string name="hintname">Student Name</string>
+    <string name="gpa">Student GPA</string>
+    <string name="tvInfo">Student Info</string>
+</resources>
